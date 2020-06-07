@@ -11,8 +11,11 @@ https://stackblitz.com/edit/angular-shopping-website
 Features
 
 1.User can view shopping items
+
 2.User can filter and search the list by name
+
 3.User can add and update item to the cart
+
 4.User can view the total price in the cart
 
 
